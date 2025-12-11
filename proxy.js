@@ -28,5 +28,5 @@ app.post("/sanity", async (req, res) => {
 });
 
 app.listen(4000, () => {
-  console.log("CORS proxy running at http://67.211.209.122:4000/sanity");
+  console.log("CORS proxy running at http://160.153.183.0:4000/sanity");
 });
